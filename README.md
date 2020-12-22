@@ -13,7 +13,9 @@ the daligallery is django application that allow to upload picture and able to  
 ## Known Bugs
  
 ## Technologies Used
- 
+ python3.6
+ django
+ heroku
 ## Support and contact details
  
 ### License
