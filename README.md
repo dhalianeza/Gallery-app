@@ -19,5 +19,5 @@ the daligallery is django application that allow to upload picture and able to  
 ## Support and contact details
  if you  have any question or suggestion email us:dhalianeza@gmail.com
 ### License
-
+MIT License
 * Copyright (c) {2020} **dariya**
