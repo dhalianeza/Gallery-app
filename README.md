@@ -6,7 +6,9 @@ the daligallery is django application that allow to upload picture and able to  
 ## Live link
 https://daligallery.herokuapp.com/
 ## Setup/Installation Requirements
- 
+ * ubuntu
+ * chrome
+ * terminal
 ## user story
  * view differnt photo
  * user can share the photo 
