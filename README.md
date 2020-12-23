@@ -3,6 +3,7 @@
 #### Author: Dalia Nyiraneza
 ## Description
 the daligallery is django application that allow to upload picture and able to  share pictures
+## Live link
 ## Setup/Installation Requirements
 * 
 * 
