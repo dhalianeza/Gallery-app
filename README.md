@@ -12,7 +12,7 @@ https://daligallery.herokuapp.com/
 * 
 * 
  
-## Feature
+## user story
  
 ## Technologies Used
  python3.6
