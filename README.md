@@ -15,7 +15,7 @@ https://daligallery.herokuapp.com/
 ## user story
  * view differnt photo
  * user can share the photo 
- * user can search 
+ * user can search  according
 ## Technologies Used
  python3.6
  django
