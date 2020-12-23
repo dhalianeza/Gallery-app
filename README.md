@@ -15,6 +15,7 @@ https://daligallery.herokuapp.com/
  python3.6
  django
  heroku
+ bootsrap4
 ## Support and contact details
  if you  have any question or suggestion email us:dhalianeza@gmail.com
 ### License
